@@ -1,0 +1,7 @@
+# pattern matching metamodel
+
+files = [
+	src.src log.log
+	py.py Makefile
+	.gitignore
+]
